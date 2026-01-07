@@ -53,7 +53,7 @@ Write the newsletter with these sections:
    - The term and where it was mentioned (sources)
    - What it actually means (plain English)
    - "Mike's take" - your honest analysis (be skeptical when warranted, excited when genuine)
-   - Domain reality - what's available, what's taken, what patterns to watch
+   - Domain patterns to watch - discuss naming patterns and compound terms worth exploring (e.g., "[keyword]Platform.com", "Enterprise[keyword].com")
 
 3. **✅ VALIDATED & RISING** - For cross-tier keywords that appear in both VC and mainstream:
    - The timeline of adoption
@@ -71,7 +71,14 @@ Write the newsletter with these sections:
 
 6. **📈 TREND TRACKER** - Quick bullets on what's moving up/down
 
-Be specific, be opinionated, include actual domain name suggestions. Write like an insider sharing real intelligence, not a generic summary. Around 1500-2000 words total."""
+Be specific, be opinionated, suggest domain naming patterns worth exploring. Write like an insider sharing real intelligence, not a generic summary. Around 1500-2000 words total.
+
+IMPORTANT: Do NOT make up specific "facts" that you cannot verify:
+- Do NOT claim specific domains are "available" or "taken" (you don't have WHOIS data)
+- Do NOT mention specific sale prices unless from the provided data
+- Do NOT claim domains are "expiring" or give expiration dates
+- DO suggest naming patterns and compound term strategies
+- DO discuss general market observations based on the keyword data provided"""
 
         try:
             response = self.client.messages.create(
