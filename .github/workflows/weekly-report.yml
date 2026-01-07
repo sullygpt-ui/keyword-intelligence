@@ -44,3 +44,12 @@ jobs:
           git add output/
           git diff --staged --quiet || git commit -m "Update keyword report $(date +%Y-%m-%d)"
           git push
+
+      - name: Notify SullysBlog
+        if: success()
+        continue-on-error: true
+        run: |
+          curl -X POST "${{ secrets.SULLYSBLOG_WEBHOOK_URL }}" \
+            -H "Content-Type: application/json" \
+            -H "x-webhook-secret: ${{ secrets.KEYWORD_INTEL_WEBHOOK_SECRET }}" \
+            -d "{\"date\": \"$(date +%Y-%m-%d)\"}"
