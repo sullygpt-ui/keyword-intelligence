@@ -1,6 +1,6 @@
 {
   "report_date": "2026-01-07",
-  "generated_at": "2026-01-07T15:18:31.520927",
+  "generated_at": "2026-01-07T15:32:07.614182",
   "tier1_emerging": [
     {
       "term": "ai agents",
@@ -16,9 +16,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/burnt",
-        "https://www.ycombinator.com/companies/ergo",
-        "https://www.ycombinator.com/companies/pathpilot"
+        "https://www.ycombinator.com/companies/ressl-ai",
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.ycombinator.com/companies/ergo"
       ]
     },
     {
@@ -35,9 +35,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/visibl-semiconductors",
         "https://www.ycombinator.com/companies/pathpilot",
-        "https://www.ycombinator.com/companies/vantel"
+        "https://www.ycombinator.com/companies/o11",
+        "https://www.ycombinator.com/companies/f2"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "percent_change": 0.0,
       "urls": [
         "https://www.ycombinator.com/companies/uplift-ai",
-        "https://www.ycombinator.com/companies/veritus",
+        "https://www.ycombinator.com/companies/copycat",
         "https://www.ycombinator.com/companies/freya"
       ]
     },
@@ -73,9 +73,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/affil-ai",
+        "https://www.ycombinator.com/companies/noso-labs",
         "https://www.ycombinator.com/companies/outerport",
-        "https://www.ycombinator.com/companies/noso-labs"
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
       ]
     },
     {
@@ -92,9 +92,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/burnt",
         "https://www.ycombinator.com/companies/spotlight-realty",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/"
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://www.ycombinator.com/companies/burnt"
       ]
     },
     {
@@ -111,9 +111,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/corelayer",
         "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/"
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://www.ycombinator.com/companies/corelayer"
       ]
     },
     {
@@ -184,8 +184,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/burnt",
-        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.ycombinator.com/companies/burnt"
       ]
     },
     {
@@ -202,8 +202,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/pocket",
-        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.ycombinator.com/companies/pocket"
       ]
     },
     {
@@ -256,8 +256,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/burnt",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/"
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://www.ycombinator.com/companies/burnt"
       ]
     },
     {
@@ -274,8 +274,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/pathpilot",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/"
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://www.ycombinator.com/companies/pathpilot"
       ]
     },
     {
@@ -292,8 +292,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/dreamrp",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/"
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://www.ycombinator.com/companies/dreamrp"
       ]
     },
     {
@@ -310,8 +310,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/langchain-from-agent-0-to-1-to-agentic-engineering/",
-        "https://www.ycombinator.com/companies/artifact-2"
+        "https://www.ycombinator.com/companies/artifact-2",
+        "https://sequoiacap.com/article/langchain-from-agent-0-to-1-to-agentic-engineering/"
       ]
     },
     {
@@ -346,8 +346,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
-        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/"
       ]
     },
     {
@@ -454,8 +454,8 @@
       "tier3_mentions": 2,
       "vc_sources": [],
       "earnings_sources": [
-        "company_BAC",
-        "cnbc_finance"
+        "cnbc_finance",
+        "company_BAC"
       ],
       "first_seen": "2026-01-07",
       "is_cross_tier": false,

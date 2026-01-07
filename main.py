@@ -40,6 +40,7 @@ from scrapers.yc_companies import YCCompaniesScraper
 from processing.keyword_extraction import KeywordExtractor
 from processing.scoring import KeywordScorer
 from output.report_generator import ReportGenerator
+from output.ai_report_generator import AIReportGenerator
 
 # Setup logging
 def setup_logging():
@@ -227,7 +228,7 @@ def run_scoring(db: Database) -> dict:
     return tiered
 
 
-def run_report_generation(tiered_keywords: dict) -> dict:
+def run_report_generation(tiered_keywords: dict, generate_ai_report: bool = True) -> dict:
     """Generate all report formats"""
     logger.info("Generating reports...")
 
@@ -238,6 +239,17 @@ def run_report_generation(tiered_keywords: dict) -> dict:
 
     for format_name, path in paths.items():
         logger.info(f"Generated {format_name}: {path}")
+
+    # Generate AI-enhanced newsletter
+    if generate_ai_report:
+        try:
+            logger.info("Generating AI-enhanced newsletter...")
+            ai_generator = AIReportGenerator()
+            newsletter_path = ai_generator.generate_enhanced_report(tiered_keywords, report_date)
+            paths['newsletter'] = newsletter_path
+            logger.info(f"Generated newsletter: {newsletter_path}")
+        except Exception as e:
+            logger.warning(f"AI newsletter generation failed: {e}")
 
     return paths
 

@@ -24,3 +24,4 @@ python-wordpress-xmlrpc>=2.3
 # Utilities
 python-dotenv>=1.0.0
 rich>=13.0.0
+anthropic

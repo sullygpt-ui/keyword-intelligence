@@ -27,6 +27,8 @@ jobs:
           python -m spacy download en_core_web_sm
 
       - name: Run keyword pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python main.py
 
       - name: Commit and push reports
