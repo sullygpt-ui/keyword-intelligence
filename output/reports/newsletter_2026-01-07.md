@@ -34,12 +34,12 @@
 
 ## 📊 MAINSTREAM CORPORATE
 
-**investment banking**
+**truist initiates palantir**
 
-**inspire medical systems**
+**accenture acquires rival faculty**
 
-**execution difficulties**
+**mirion technologies**
 
-**analyst report**
+**sitime corporation**
 
-**united airlines holdings inc**
+**steady trade**

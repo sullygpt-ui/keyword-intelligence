@@ -1,6 +1,6 @@
 {
   "report_date": "2026-01-07",
-  "generated_at": "2026-01-07T15:32:07.614182",
+  "generated_at": "2026-01-07T21:55:23.161241",
   "tier1_emerging": [
     {
       "term": "ai agents",
@@ -16,8 +16,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/ressl-ai",
         "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.ycombinator.com/companies/pathpilot",
         "https://www.ycombinator.com/companies/ergo"
       ]
     },
@@ -36,8 +36,8 @@
       "percent_change": 0.0,
       "urls": [
         "https://www.ycombinator.com/companies/pathpilot",
-        "https://www.ycombinator.com/companies/o11",
-        "https://www.ycombinator.com/companies/f2"
+        "https://www.ycombinator.com/companies/vantel",
+        "https://www.ycombinator.com/companies/o11"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "percent_change": 0.0,
       "urls": [
         "https://www.ycombinator.com/companies/uplift-ai",
-        "https://www.ycombinator.com/companies/copycat",
+        "https://www.ycombinator.com/companies/veritus",
         "https://www.ycombinator.com/companies/freya"
       ]
     },
@@ -73,8 +73,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/noso-labs",
         "https://www.ycombinator.com/companies/outerport",
+        "https://www.ycombinator.com/companies/noso-labs",
         "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
       ]
     },
@@ -111,8 +111,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
         "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
         "https://www.ycombinator.com/companies/corelayer"
       ]
     },
@@ -130,8 +130,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/",
-        "https://www.ycombinator.com/companies/bubble-lab"
+        "https://www.ycombinator.com/companies/bubble-lab",
+        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/"
       ]
     },
     {
@@ -166,8 +166,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/lightbox",
-        "https://sequoiacap.com/article/the-abundance-paradox-why-netflix-paid-82b-for-scarcity/"
+        "https://sequoiacap.com/article/the-abundance-paradox-why-netflix-paid-82b-for-scarcity/",
+        "https://www.ycombinator.com/companies/lightbox"
       ]
     },
     {
@@ -220,8 +220,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/visibl-semiconductors",
-        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/",
+        "https://www.ycombinator.com/companies/visibl-semiconductors"
       ]
     },
     {
@@ -310,8 +310,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/artifact-2",
-        "https://sequoiacap.com/article/langchain-from-agent-0-to-1-to-agentic-engineering/"
+        "https://sequoiacap.com/article/langchain-from-agent-0-to-1-to-agentic-engineering/",
+        "https://www.ycombinator.com/companies/artifact-2"
       ]
     },
     {
@@ -386,9 +386,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html",
         "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
-        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/",
+        "https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html"
       ]
     },
     {
@@ -405,8 +405,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/corelayer",
-        "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html"
+        "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html",
+        "https://www.ycombinator.com/companies/corelayer"
       ]
     },
     {
@@ -423,7 +423,7 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVHNUUzlyVXZoVnJIdWNXczBiOGtTLUExNy1pZllaZWF2RTZnQmJUdDBEUTI3QzVUTUNaVmFwQk9kTVZPTFZrSktYSklCOG5naFRGZUptOWRqajVjaW0wcXRDSW1wOFlwTDc4Y3V1enRuY0pjNEV4ZFczWHRPQ2V2RVc1Wk5SaFlzTDg5MDVLU1VTUDV5RnVQbkloSm94UTJSck9vbXNURzNCUHp1bjlURzlsRVhoMnEwbmVBZWd5ZUZmdi1NR0pNSHR2T29qaDdQcWFnWXpXN1BtbnNtcEdKVTNSR05yNUhJZHNMbk1TU0w5ZGgzaWJjXzJWdW5uRlpkYko0N0NXQVpHZG1NaTE0UXFnd3NNZUVoVnQxanR3ZnNUcTdoSlR3ZmJtX296XzdaeS03bTQwbERQUGxKRHVTY1hQcTE1a2xpU0w4YTVqcWlkd1pHaUJOeTVTbkk5M2xuU1d5Zlk3b1N0X2pKZjZORWRqZE1WSHlrMG9GLXFlZDFPZVRZTTlMQUFR?oc=5",
+        "https://news.google.com/rss/articles/CBMiigNBVV95cUxQdVpmTk43Y2tjR3I2czVZMUQ4Z0dkUkt4YjVXelhBWWs5aU5oZG5qdjVQaFVJaFRlZ0tnMGtMZmg5bWh4akFFbjRuUmpNZHFBRkFXNTNBVWpaQnRSSUNiN2dTWUNuOG16NlFvMGRTX0d2SWp5NGxBUG9rOUpnU1BqV2FWMVh2dWdhUG5vekRUbTdNSzdraEtCdzdNWnRCZDk0cjhKc09TSnNoZG9EZ1JMbWtOMTMtZWRxZ21KVmIxMEZneU1WdEtSSzlzdU1EMlo3c0ZCOWI1Z0d6b3VqRHRQb2hIMXRWRTl3LVZ0OHdnbHViWFBCVG8teDVqcVVIV0RPMXI4R3hnT0hwWUk2THBWalpIQVd0WFNVMUtCVkdUUjlmcmFaNEZUQ3Y2Rzl3eHVENGZ2UDEyNEJLQzRaS1pULTkwdVlSR096NnZUM2NnRm5fYXBiaFA5WEF0dEl6VHAwZHhmaHZYU0pDMTB3RTg2WVFlOHo0LTdiRkV0UWdBalA3UHdLa0VjN0RR?oc=5",
         "https://www.ycombinator.com/companies/luminal"
       ]
     },
@@ -448,26 +448,7 @@
   ],
   "tier3_mainstream": [
     {
-      "term": "investment banking",
-      "score": 22.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 2,
-      "vc_sources": [],
-      "earnings_sources": [
-        "cnbc_finance",
-        "company_BAC"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW1qTkFhYklCU0lTSkFMUVo1V3h2X2VuaGhseGJMMmFhZDc4bERSM3Z4S1o3TWRQZzBMckRqM0RlRzRFV1l5YmRuWVotLWhhUlFZU2ExQkZ5U1B4d25hV2xQcFdVa3JINm80aEVOVWtmT0Y1Z1BFX0MyWERaYzlZOWxaOUxSb2xUYlR1UjlaTHpxcGpxeEdDOF80cUtEOGlFYkF4TmJ1bmRuVWJtbUZRMWc1TQ?oc=5",
-        "https://www.cnbc.com/2026/01/05/jpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html"
-      ]
-    },
-    {
-      "term": "inspire medical systems",
+      "term": "truist initiates palantir",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -480,11 +461,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/inspire-medical-systems-insp-hit-125717879.html"
+        "https://www.investors.com/news/technology/plantir-stock-pltr-truist-buy-rating-capital-returns/?src=A00220&yptr=yahoo"
       ]
     },
     {
-      "term": "execution difficulties",
+      "term": "accenture acquires rival faculty",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -497,7 +478,109 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/inspire-medical-systems-insp-hit-125717879.html"
+        "https://www.investors.com/news/technology/plantir-stock-pltr-truist-buy-rating-capital-returns/?src=A00220&yptr=yahoo"
+      ]
+    },
+    {
+      "term": "mirion technologies",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/factors-led-timessquare-capital-u-132811631.html"
+      ]
+    },
+    {
+      "term": "sitime corporation",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/backed-timessquare-capital-u-small-132534956.html"
+      ]
+    },
+    {
+      "term": "steady trade",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/corn-starting-tuesday-steady-trade-132410867.html"
+      ]
+    },
+    {
+      "term": "tuesday morning",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/wheat-posting-mixed-trade-tuesday-132410243.html"
+      ]
+    },
+    {
+      "term": "cotton rally",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/cotton-rally-extending-tuesday-am-132410739.html"
+      ]
+    },
+    {
+      "term": "tuesday am trade",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/cotton-rally-extending-tuesday-am-132410739.html"
       ]
     },
     {
@@ -535,7 +618,7 @@
       ]
     },
     {
-      "term": "hightower signature wealth channel",
+      "term": "biodexa pharmaceuticals",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -548,11 +631,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/hightower-signature-wealth-channel-adds-130000011.html"
+        "https://finance.yahoo.com/news/biodexa-pharmaceuticals-promotes-fiona-sharp-134108555.html"
       ]
     },
     {
-      "term": "five advisor practices",
+      "term": "par technology",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -565,11 +648,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/hightower-signature-wealth-channel-adds-130000011.html"
+        "https://finance.yahoo.com/news/par-technology-par-traded-lower-132312139.html"
       ]
     },
     {
-      "term": "soleno therapeutics",
+      "term": "annual recurring revenue",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -582,11 +665,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/believe-growth-prospects-soleno-therapeutics-130008859.html"
+        "https://finance.yahoo.com/news/par-technology-par-traded-lower-132312139.html"
       ]
     },
     {
-      "term": "mirum pharmaceuticals",
+      "term": "unifirst corporation",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -599,7 +682,58 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/invest-mirum-pharmaceuticals-mirm-130358235.html"
+        "https://finance.yahoo.com/news/makes-unifirst-corporation-unf-investment-131823341.html"
+      ]
+    },
+    {
+      "term": "acv auctions",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/timessquare-capital-u-small-cap-131222942.html"
+      ]
+    },
+    {
+      "term": "trump's latest move",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/trumps-latest-move-tariffs-makes-134100397.html"
+      ]
+    },
+    {
+      "term": "casella waste systems",
+      "score": 21.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-07",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/why-casella-waste-systems-cwst-131002467.html"
       ]
     },
     {
@@ -637,156 +771,20 @@
       ]
     },
     {
-      "term": "casella waste systems",
+      "term": "wednesday\u2019s 466-point drop",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
       "vc_sources": [],
       "earnings_sources": [
-        "yahoo_finance"
+        "marketwatch_top"
       ],
       "first_seen": "2026-01-07",
       "is_cross_tier": false,
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/why-casella-waste-systems-cwst-131002467.html"
-      ]
-    },
-    {
-      "term": "digital realty",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/tuesday-top-wall-street-analyst-130503974.html"
-      ]
-    },
-    {
-      "term": "palantir technologies",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/tuesday-top-wall-street-analyst-130503974.html"
-      ]
-    },
-    {
-      "term": "sofi technologies",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/tuesday-top-wall-street-analyst-130503974.html"
-      ]
-    },
-    {
-      "term": "newamsterdam pharma company n.v",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/newamsterdam-pharma-company-n-v-125459755.html"
-      ]
-    },
-    {
-      "term": "visteon corporation",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/why-visteon-corporation-vc-rose-124904337.html"
-      ]
-    },
-    {
-      "term": "acv auctions",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/timessquare-capital-u-small-cap-131222942.html"
-      ]
-    },
-    {
-      "term": "daily spotlight",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/research/reports/ARGUS_45780_MarketOutlook_1767789050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-      ]
-    },
-    {
-      "term": "oil prices",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-07",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/research/reports/ARGUS_45780_MarketOutlook_1767789050000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+        "https://www.marketwatch.com/story/dow-gets-off-to-its-best-yearly-start-since-2018-despite-wednesdays-466-point-drop-a0346e29?mod=mw_rss_topstories"
       ]
     }
   ]
