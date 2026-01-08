@@ -1,6 +1,6 @@
 {
   "report_date": "2026-01-08",
-  "generated_at": "2026-01-08T00:29:40.099618",
+  "generated_at": "2026-01-08T22:57:54.120521",
   "tier1_emerging": [
     {
       "term": "ai agents",
@@ -16,9 +16,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/corelayer",
-        "https://www.ycombinator.com/companies/chasi",
-        "https://www.ycombinator.com/companies/burnt"
+        "https://www.ycombinator.com/companies/ressl-ai",
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.ycombinator.com/companies/chasi"
       ]
     },
     {
@@ -35,9 +35,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/visibl-semiconductors",
         "https://www.ycombinator.com/companies/vantel",
-        "https://www.ycombinator.com/companies/o11"
+        "https://www.ycombinator.com/companies/pathpilot",
+        "https://www.ycombinator.com/companies/f2"
       ]
     },
     {
@@ -55,8 +55,8 @@
       "percent_change": 0.0,
       "urls": [
         "https://www.ycombinator.com/companies/copycat",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/",
-        "https://www.ycombinator.com/companies/veritus"
+        "https://www.ycombinator.com/companies/veritus",
+        "https://www.ycombinator.com/companies/uplift-ai"
       ]
     },
     {
@@ -73,28 +73,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
+        "https://www.ycombinator.com/companies/affil-ai",
         "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/",
-        "https://www.ycombinator.com/companies/noso-labs",
-        "https://www.ycombinator.com/companies/affil-ai"
-      ]
-    },
-    {
-      "term": "ai agent",
-      "score": 31.0,
-      "tier1_mentions": 3,
-      "tier3_mentions": 0,
-      "vc_sources": [
-        "sequoia"
-      ],
-      "earnings_sources": [],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://sequoiacap.com/article/seed-venture-funds-2025/",
-        "https://www.ycombinator.com/companies/burnt",
-        "https://www.ycombinator.com/companies/spotlight-realty"
+        "https://www.ycombinator.com/companies/noso-labs"
       ]
     },
     {
@@ -111,9 +92,9 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
         "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
-        "https://www.ycombinator.com/companies/corelayer",
-        "https://sequoiacap.com/article/seed-venture-funds-2025/"
+        "https://www.ycombinator.com/companies/corelayer"
       ]
     },
     {
@@ -130,8 +111,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/",
-        "https://www.ycombinator.com/companies/bubble-lab"
+        "https://www.ycombinator.com/companies/bubble-lab",
+        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/"
       ]
     },
     {
@@ -148,8 +129,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/merlin-ai",
-        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/"
+        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/",
+        "https://www.ycombinator.com/companies/merlin-ai"
       ]
     },
     {
@@ -166,8 +147,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/lightbox",
-        "https://sequoiacap.com/article/the-abundance-paradox-why-netflix-paid-82b-for-scarcity/"
+        "https://sequoiacap.com/article/the-abundance-paradox-why-netflix-paid-82b-for-scarcity/",
+        "https://www.ycombinator.com/companies/lightbox"
       ]
     },
     {
@@ -202,8 +183,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.ycombinator.com/companies/pocket",
-        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.ycombinator.com/companies/pocket"
       ]
     },
     {
@@ -238,8 +219,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/",
-        "https://www.ycombinator.com/companies/human-archive"
+        "https://www.ycombinator.com/companies/human-archive",
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
       ]
     },
     {
@@ -274,8 +255,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/seed-venture-funds-2025/",
-        "https://www.ycombinator.com/companies/pathpilot"
+        "https://www.ycombinator.com/companies/pathpilot",
+        "https://sequoiacap.com/article/seed-venture-funds-2025/"
       ]
     },
     {
@@ -292,8 +273,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/seed-venture-funds-2025/",
-        "https://www.ycombinator.com/companies/dreamrp"
+        "https://www.ycombinator.com/companies/dreamrp",
+        "https://sequoiacap.com/article/seed-venture-funds-2025/"
       ]
     },
     {
@@ -328,8 +309,8 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/partnering-with-sesame-a-new-era-for-voice/",
-        "https://www.ycombinator.com/companies/pax-historia"
+        "https://www.ycombinator.com/companies/pax-historia",
+        "https://sequoiacap.com/article/partnering-with-sesame-a-new-era-for-voice/"
       ]
     },
     {
@@ -346,12 +327,12 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
-        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/"
       ]
     },
     {
-      "term": "data centers",
+      "term": "ai chips",
       "score": 30.0,
       "tier1_mentions": 2,
       "tier3_mentions": 0,
@@ -364,16 +345,34 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://sequoiacap.com/article/partnering-with-sunflower-labs-your-autonomous-eye-in-the-sky/",
-        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
+      ]
+    },
+    {
+      "term": "ai workloads",
+      "score": 30.0,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
       ]
     }
   ],
   "tier2_validated": [
     {
-      "term": "ai chips",
-      "score": 81.0,
-      "tier1_mentions": 2,
+      "term": "ai agent",
+      "score": 82.0,
+      "tier1_mentions": 3,
       "tier3_mentions": 1,
       "vc_sources": [
         "sequoia"
@@ -386,19 +385,41 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
+        "https://sequoiacap.com/article/seed-venture-funds-2025/",
+        "https://www.cnbc.com/2026/01/08/china-investigate-meta-acquisition-manus-export.html",
+        "https://www.ycombinator.com/companies/burnt"
+      ]
+    },
+    {
+      "term": "data centers",
+      "score": 81.0,
+      "tier1_mentions": 2,
+      "tier3_mentions": 1,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "marketwatch_top"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
         "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
-        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/",
-        "https://www.cnbc.com/2026/01/06/huang-nvidia-seeing-very-high-demand-for-h200-ai-chips-from-china.html"
+        "https://sequoiacap.com/article/partnering-with-sunflower-labs-your-autonomous-eye-in-the-sky/",
+        "https://www.marketwatch.com/story/nvidia-had-a-chilling-effect-on-these-power-stocks-are-investors-being-too-harsh-4494bc3a?mod=mw_rss_topstories"
       ]
     },
     {
       "term": "goldman sachs",
-      "score": 71.5,
+      "score": 72.5,
       "tier1_mentions": 1,
-      "tier3_mentions": 1,
+      "tier3_mentions": 2,
       "vc_sources": [],
       "earnings_sources": [
-        "cnbc_finance"
+        "cnbc_finance",
+        "seeking_alpha_market"
       ],
       "first_seen": "2026-01-08",
       "is_cross_tier": true,
@@ -406,7 +427,8 @@
       "percent_change": 0.0,
       "urls": [
         "https://www.cnbc.com/2026/01/07/jpmorgan-apple-credit-card.html",
-        "https://www.ycombinator.com/companies/corelayer"
+        "https://www.ycombinator.com/companies/corelayer",
+        "https://seekingalpha.com/news/4537906-silver-price-volatility-to-persist-this-year-compounded-by-china-export-controls---goldman-sachs?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news"
       ]
     },
     {
@@ -424,64 +446,81 @@
       "percent_change": 0.0,
       "urls": [
         "https://www.ycombinator.com/companies/luminal",
-        "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVVY4Nk5EVGl0MlBWWWhMSUpZYXFXU3o1djZSVXNQbkZRRlFYTzRQOVlYSG5rZy14bmpmb0Y1d2tWdW5uVERWTzFUWTdNRnZUTDNiS2h6WnU3OERqeEdsMElNRXcwSGkxSmh6ektzbTQwdnl0Xy1hczMyak52MV9TaDdvNXdpcEhVRmFvZXM1REJmRHFmeWg3aFBJUkRlenN4U1FOQlZfSGdiYVlXUlEtbHpKcGhFakdBNF8zSk1paGc4akZNaDRxUU1RUXhwTE5ucC0wT2lsekl4UUJ5czZ1MUl2a2EzTzBfemJxYVFkZmRvdkFJYkNVTnUxTHNpa0ZKcWRmS2U0X3M5ZlFiczhCUDVNUWtyLVNRTU1LV29xZ3ZKd0JtaTdZYlZ6cFFJUUx3RFJkbXBIbHJSSXZubmRFcm1UV2stVy1wX2xJckZpZE16eng1N3drd2VKUjVzWjZxUTM3a09LNzlfWTZzZTdSRUNpakg0REpfUmpqLVd2Zm9ZX0NtTnZfcnln?oc=5"
-      ]
-    },
-    {
-      "term": "investment analysts",
-      "score": 71.5,
-      "tier1_mentions": 1,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "marketwatch_top"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": true,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://www.marketwatch.com/story/this-100-year-old-stock-market-indicator-just-flashed-a-buy-signal-heres-how-investors-should-read-it-1a6b53ae?mod=mw_rss_topstories",
-        "https://www.ycombinator.com/companies/fira"
-      ]
-    },
-    {
-      "term": "institutional investors",
-      "score": 71.5,
-      "tier1_mentions": 1,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "marketwatch_top"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": true,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://www.ycombinator.com/companies/formula-insight",
-        "https://www.marketwatch.com/story/why-trump-banning-institutional-investors-like-blackstone-from-buying-homes-wont-bring-down-housing-costs-according-to-experts-97bfc3bc?mod=mw_rss_topstories"
+        "https://news.google.com/rss/articles/CBMiigNBVV95cUxPdmpSc0ZBYS02ZzItQWdmNFlCTmxMZlc2VWpESHNlcU1mTHBRdnVfLVF0U2huWFNEWnZKcXRod2pRY0JvbGlDYVg5c3RQbnJ5ZVU5SHdjUzJNcU9xSmpIcTd0YlBuSlg0N3ZvdUVTVDBvWW1xMEdMZ01OeThVUm45UXZDZURSTVVnY1ZIa1VhYWc2cFdwUWlrRlJIdWRaQ2pmc3VhVTFmS1VKaE5fNHluWGhtLU5RSFVLeF9yLXFYakJrOXYwdC1QV0tmWThrbHFmNW5GNVZ2c2xNSGg0amdXVVlDbUJMVjQ5SXlUSlE4a1Bwb1BsTnY2Q3JYb2l2cTNPUmtMaUdiU1pJN25meHNidWwyTm8yZm5DdkZhWkliWlNMaUdFRXd2WE40M3ZlRXlZWkRlOEZUVGZOQjhMT2VaUl82M0FqcE9QYnI4NWNHNnBBYnFhck50YWVMeGFLeXk0ekJ2UndHaldtMXZ3YzVGTGNWa0MtWHVhclQtOWJVLUdtOVlkeTBERHJR?oc=5"
       ]
     }
   ],
   "tier3_mainstream": [
     {
-      "term": "second year",
+      "term": "samsung electronics",
       "score": 22.0,
       "tier1_mentions": 0,
       "tier3_mentions": 2,
       "vc_sources": [],
       "earnings_sources": [
-        "yahoo_finance",
-        "company_TSLA"
+        "cnbc_earnings",
+        "cnbc_tech"
       ],
       "first_seen": "2026-01-08",
       "is_cross_tier": false,
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMHRwUnB3cGcyNmpNREh2UDgtc2EwSnItYmZsYnRLWVA2aTlTS0RPNjFrUzlVRFVhTE02YnhWMnFLZjNmLV9FekJrVTZHR1I0cVVsTXZEWUt2SG1fUi1WcmtnVURjdWN2TDVuVk5qZnB1clZNX2JHdnktcWRWZXdlSm91WFBRRFJOMEZxTk5mQUM2YU9zbWFWVnpWTl96clRxLWJaNW1aa0dGUlYwVC15QW9CQUVwZmI3TllNbVVwV0p2V3N4RnRUczNLUzNVTXlNSXJj0gHYAUFVX3lxTE9mcTVPQVVFVm1UTkQ3MlBfQmRBT0N0bzFGcGFBUEEyUGpGRlBxdWZMNHFrRmhybWpDeW1DYWwteFhJcFJ5NjlXWWttN2NUMHI3QnJ3NTdQSGFHZDNFbkVNdnV4M3Z3R083MzhQRWdqakxMX1lmcDVOeUhtdmlkdjFCMkVSdUp4RGNkblZuZHNmQXJRcmRJaFoyNGo5NlJQSzY2aVRuUnQzeEtiOVhYMnRwMXR2S0YzSWw2bHNWdXlCNEpiMzlPMC0xTVVqbEdCSnozYVZZcDRlYg?oc=5",
-        "https://finance.yahoo.com/news/circles-usdc-outpaces-growth-tethers-124126902.html"
+        "https://www.cnbc.com/2026/01/08/samsung-electronics-estimates-surge-skyrocket-profit-ai-memory-prices-q4.html"
+      ]
+    },
+    {
+      "term": "nearly three-fold profit surge",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_earnings",
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/08/samsung-electronics-estimates-surge-skyrocket-profit-ai-memory-prices-q4.html"
+      ]
+    },
+    {
+      "term": "another sign",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/08/cnbc-daily-open-magnificent-seven-competition-heats-up.html",
+        "https://www.cnbc.com/2026/01/08/cnbc-daily-open-rumbles-within-the-magnificent-seven.html"
+      ]
+    },
+    {
+      "term": "ai race",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/08/cnbc-daily-open-magnificent-seven-competition-heats-up.html",
+        "https://www.cnbc.com/2026/01/08/cnbc-daily-open-rumbles-within-the-magnificent-seven.html"
       ]
     },
     {
@@ -499,8 +538,98 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://www.cnbc.com/2026/01/05/jpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW1qTkFhYklCU0lTSkFMUVo1V3h2X2VuaGhseGJMMmFhZDc4bERSM3Z4S1o3TWRQZzBMckRqM0RlRzRFV1l5YmRuWVotLWhhUlFZU2ExQkZ5U1B4d25hV2xQcFdVa3JINm80aEVOVWtmT0Y1Z1BFX0MyWERaYzlZOWxaOUxSb2xUYlR1UjlaTHpxcGpxeEdDOF80cUtEOGlFYkF4TmJ1bmRuVWJtbUZRMWc1TQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcW1qTkFhYklCU0lTSkFMUVo1V3h2X2VuaGhseGJMMmFhZDc4bERSM3Z4S1o3TWRQZzBMckRqM0RlRzRFV1l5YmRuWVotLWhhUlFZU2ExQkZ5U1B4d25hV2xQcFdVa3JINm80aEVOVWtmT0Y1Z1BFX0MyWERaYzlZOWxaOUxSb2xUYlR1UjlaTHpxcGpxeEdDOF80cUtEOGlFYkF4TmJ1bmRuVWJtbUZRMWc1TQ?oc=5",
+        "https://www.cnbc.com/2026/01/05/jpmorgan-forms-special-advisory-group-to-share-some-of-banks-secret-sauce-with-clients.html"
+      ]
+    },
+    {
+      "term": "track all markets",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM",
+        "company_BAC"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUJ4RHpTLTNGYTk2ZWJxdWlVa2tsZ0o4NzFyUVEtNWZVVWJLTk84NkRWWTFEWjRBUnh3VmJFcTFrTnVHb0xwSUE1NklNRHRscjBFQUVRZk43bjN2d0ZTQmR5MFBmRXhPeExxTWMtVS1yUzZ0bW5RZ19tMmlaaXF3azdyaW5meGdtOHgwLWJJZUozcERUYTFidTBnWjFtX0xwZWVlN3ZnOHltbU1PbGc2NnlNQ180WFBSSlh1MjF2RUpCLTNSUm1zZkpScHk?oc=5"
+      ]
+    },
+    {
+      "term": "earnings - tradingview",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM",
+        "company_BAC"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUJ4RHpTLTNGYTk2ZWJxdWlVa2tsZ0o4NzFyUVEtNWZVVWJLTk84NkRWWTFEWjRBUnh3VmJFcTFrTnVHb0xwSUE1NklNRHRscjBFQUVRZk43bjN2d0ZTQmR5MFBmRXhPeExxTWMtVS1yUzZ0bW5RZ19tMmlaaXF3azdyaW5meGdtOHgwLWJJZUozcERUYTFidTBnWjFtX0xwZWVlN3ZnOHltbU1PbGc2NnlNQ180WFBSSlh1MjF2RUpCLTNSUm1zZkpScHk?oc=5"
+      ]
+    },
+    {
+      "term": "all markets wolfe",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM",
+        "company_BAC"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUJ4RHpTLTNGYTk2ZWJxdWlVa2tsZ0o4NzFyUVEtNWZVVWJLTk84NkRWWTFEWjRBUnh3VmJFcTFrTnVHb0xwSUE1NklNRHRscjBFQUVRZk43bjN2d0ZTQmR5MFBmRXhPeExxTWMtVS1yUzZ0bW5RZ19tMmlaaXF3azdyaW5meGdtOHgwLWJJZUozcERUYTFidTBnWjFtX0xwZWVlN3ZnOHltbU1PbGc2NnlNQ180WFBSSlh1MjF2RUpCLTNSUm1zZkpScHk?oc=5"
+      ]
+    },
+    {
+      "term": "research downgrades jpmorgan",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM",
+        "company_BAC"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUJ4RHpTLTNGYTk2ZWJxdWlVa2tsZ0o4NzFyUVEtNWZVVWJLTk84NkRWWTFEWjRBUnh3VmJFcTFrTnVHb0xwSUE1NklNRHRscjBFQUVRZk43bjN2d0ZTQmR5MFBmRXhPeExxTWMtVS1yUzZ0bW5RZ19tMmlaaXF3azdyaW5meGdtOHgwLWJJZUozcERUYTFidTBnWjFtX0xwZWVlN3ZnOHltbU1PbGc2NnlNQ180WFBSSlh1MjF2RUpCLTNSUm1zZkpScHk?oc=5"
+      ]
+    },
+    {
+      "term": "earnings tradingview",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM",
+        "company_BAC"
+      ],
+      "first_seen": "2026-01-08",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUJ4RHpTLTNGYTk2ZWJxdWlVa2tsZ0o4NzFyUVEtNWZVVWJLTk84NkRWWTFEWjRBUnh3VmJFcTFrTnVHb0xwSUE1NklNRHRscjBFQUVRZk43bjN2d0ZTQmR5MFBmRXhPeExxTWMtVS1yUzZ0bW5RZ19tMmlaaXF3azdyaW5meGdtOHgwLWJJZUozcERUYTFidTBnWjFtX0xwZWVlN3ZnOHltbU1PbGc2NnlNQ180WFBSSlh1MjF2RUpCLTNSUm1zZkpScHk?oc=5"
       ]
     },
     {
@@ -522,7 +651,7 @@
       ]
     },
     {
-      "term": "visteon corporation",
+      "term": "ai revolution",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -535,11 +664,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/why-visteon-corporation-vc-rose-124904337.html"
+        "https://finance.yahoo.com/news/robots-rockets-aren-t-made-152119625.html"
       ]
     },
     {
-      "term": "newamsterdam pharma company n.v",
+      "term": "compass coffee files",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -552,11 +681,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/newamsterdam-pharma-company-n-v-125459755.html"
+        "https://finance.yahoo.com/news/compass-coffee-files-chapter-11-151805783.html"
       ]
     },
     {
-      "term": "inspire medical systems",
+      "term": "chapter 11 bankruptcy",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -569,11 +698,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/inspire-medical-systems-insp-hit-125717879.html"
+        "https://finance.yahoo.com/news/compass-coffee-files-chapter-11-151805783.html"
       ]
     },
     {
-      "term": "execution difficulties",
+      "term": "chapter 11",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -586,11 +715,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/inspire-medical-systems-insp-hit-125717879.html"
+        "https://finance.yahoo.com/news/compass-coffee-files-chapter-11-151805783.html"
       ]
     },
     {
-      "term": "216m financing",
+      "term": "swiss franc futures",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -603,11 +732,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/energy-provider-redaptive-closes-216m-124900583.html"
+        "https://finance.yahoo.com/news/frank-time-sell-swiss-franc-150755048.html"
       ]
     },
     {
-      "term": "novel securitization",
+      "term": "daily spotlight",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -620,11 +749,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/energy-provider-redaptive-closes-216m-124900583.html"
+        "https://finance.yahoo.com/research/reports/ARGUS_45793_MarketOutlook_1767875139000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ]
     },
     {
-      "term": "soleno therapeutics",
+      "term": "global stocks",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -637,11 +766,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/believe-growth-prospects-soleno-therapeutics-130008859.html"
+        "https://finance.yahoo.com/research/reports/ARGUS_45793_MarketOutlook_1767875139000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
       ]
     },
     {
-      "term": "mirum pharmaceuticals",
+      "term": "lower bond yields",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -654,11 +783,11 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/news/invest-mirum-pharmaceuticals-mirm-130358235.html"
+        "https://finance.yahoo.com/news/stocks-supported-lower-bond-yields-150734181.html"
       ]
     },
     {
-      "term": "analyst report",
+      "term": "waterbridge infrastructure",
       "score": 21.0,
       "tier1_mentions": 0,
       "tier3_mentions": 1,
@@ -671,143 +800,7 @@
       "trend": "new",
       "percent_change": 0.0,
       "urls": [
-        "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1767812596000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-      ]
-    },
-    {
-      "term": "united airlines holdings inc",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/research/reports/ARGUS_4407_AnalystReport_1767812596000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
-      ]
-    },
-    {
-      "term": "casella waste systems",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/why-casella-waste-systems-cwst-131002467.html"
-      ]
-    },
-    {
-      "term": "s&p 500 giant vistra",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://www.investors.com/news/sp-500-nuclear-vistra-4-billion-natural-gas-bet-follows-competitors-lead/?src=A00220&yptr=yahoo"
-      ]
-    },
-    {
-      "term": "competitor constellation energy's lead",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://www.investors.com/news/sp-500-nuclear-vistra-4-billion-natural-gas-bet-follows-competitors-lead/?src=A00220&yptr=yahoo"
-      ]
-    },
-    {
-      "term": "acv auctions",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/timessquare-capital-u-small-cap-131222942.html"
-      ]
-    },
-    {
-      "term": "circle's usdc outpaces growth",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/circles-usdc-outpaces-growth-tethers-124126902.html"
-      ]
-    },
-    {
-      "term": "unifirst corporation",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/makes-unifirst-corporation-unf-investment-131823341.html"
-      ]
-    },
-    {
-      "term": "par technology",
-      "score": 21.0,
-      "tier1_mentions": 0,
-      "tier3_mentions": 1,
-      "vc_sources": [],
-      "earnings_sources": [
-        "yahoo_finance"
-      ],
-      "first_seen": "2026-01-08",
-      "is_cross_tier": false,
-      "trend": "new",
-      "percent_change": 0.0,
-      "urls": [
-        "https://finance.yahoo.com/news/par-technology-par-traded-lower-132312139.html"
+        "https://finance.yahoo.com/news/why-ave-maria-value-fund-150751433.html"
       ]
     }
   ]

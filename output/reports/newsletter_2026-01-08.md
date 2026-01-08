@@ -1,120 +1,113 @@
 # What VCs and Fortune 500 Are Talking About This Week
-**January 8, 2026**
+**Mike's Tech Term Intel | January 8, 2026**
 
-Hey domain hunters and tech watchers,
+Hey domain watchers and enterprise tech folks,
 
-Just wrapped up my analysis of this week's keyword intelligence, and we're seeing some fascinating signals from the VC ecosystem. Sequoia's portfolio chatter is absolutely dominated by AI agents right now, while the Fortune 500 crowd is still catching up to what we saw brewing 18 months ago.
+Hope everyone survived the post-holiday return to reality. I've been digging through this week's keyword intelligence, and there's some fascinating signal in the noise. Sequoia's portfolio companies are practically screaming about AI agents (37.5 score, 15 YC companies mentioning it), while the Fortune 500 is still figuring out basic "AI revolution" messaging. 
 
-The gap between emerging VC terminology and mainstream corporate adoption continues to be our sweet spot for domain positioning. Let's dig in.
+The gap between what VCs are funding and what enterprises are actually talking about tells a story - and that story usually prints money for those paying attention.
 
 ---
 
 ## 🔮 EMERGING BUZZ (From VC Land)
 
-### AI Agents (Score: 37.5)
-**Sources:** Sequoia portfolio + 15 YC companies
+### AI Agents (Score: 37.5, 15 YC Companies)
+**What it means:** We're past the chatbot phase. These are autonomous software entities that can actually execute tasks, not just generate responses. Think less "ask me about your PDF" and more "book my travel, negotiate the contract, and update Salesforce."
 
-This isn't just "AI" anymore - it's specifically **AI agents**, and the distinction matters. We're talking about autonomous software that can complete multi-step tasks without constant human supervision. Think beyond chatbots to systems that can manage your entire customer onboarding flow or handle complex procurement processes.
+**Mike's take:** This is the real deal, folks. When 15 YC companies in one week are talking about the same term, and Sequoia's writing about it, that's not hype - that's the next platform shift. I've been in enough Workday and Salesforce implementations to know that enterprises are drowning in workflow complexity. AI agents that can actually DO things (not just chat about them) solve real pain.
 
-**Mike's take:** This is the real deal. When 15 YC companies are using the exact same terminology, that's not coincidence - that's category formation happening in real-time. The enterprise software world is about to get flooded with "agent" everything. I've been tracking this since early 2024, and we're now at the inflection point where enterprises are moving from "AI strategy" to "agent implementation."
+**Domain patterns to watch:** The compound game is strong here. Think `[Industry]Agent.com`, `Agent[Function].com`, or the enterprise classics like `EnterpriseAgents.com`. The beauty is in the action verbs - `AgentDeploy`, `AgentWorkflow`, `AgentScale`. Also watching for sector-specific plays: `FinanceAgent`, `SalesAgent`, `HRAgent`.
 
-**Domain patterns to watch:** The compound opportunities here are massive. Think `[Industry]Agents.com`, `Agent[Function].com`, or `Enterprise[Process]Agent.com`. The beauty is that "agent" works both as a prefix and suffix, giving you flexibility in brandable combinations. 
+### Voice AI (Score: 32.0, 4 YC Companies)
+**What it means:** Not Alexa playing music. This is conversational AI that can handle complex business interactions - think AI handling your customer service calls, sales demos, or internal meetings.
 
-### Voice AI (Score: 32.0) + Phone Calls (Score: 30.5)
-**Sources:** Sequoia + YC ecosystem
+**Mike's take:** I'm bullish but cautious. Voice has been "the next big thing" since 2016. But the convergence of better models + remote work culture + enterprise cost pressure creates a different dynamic now. Plus, if it's crossing VC radar while "phone calls" is also trending (30.5 score), there's something brewing in business communications.
 
-These two appearing together isn't accidental. We're seeing the convergence of voice AI technology with traditional business communications. Not just transcription - we're talking about AI that can conduct actual business conversations, handle support calls, and manage sales interactions.
+**Domain patterns to watch:** `VoiceAI[Industry].com` patterns, but also think about the enterprise workflow angle: `VoicePlatform`, `ConversationalEnterprise`, `VoiceWorkflow`. The compound opportunities with "Voice" as a prefix are massive.
 
-**Mike's take:** Remember when everyone said video would kill phone calls? Never happened in B2B. Now we're seeing voice AI mature enough for real business use cases. The enterprise appetite for this is enormous - every company I've consulted with in the past year has asked about voice automation for customer service.
+### Embodied Intelligence (Score: 30.5, 1 YC Company)
+**What it means:** AI that exists in physical form - robots, autonomous vehicles, smart manufacturing equipment. Intelligence that can manipulate the physical world.
 
-**Domain patterns to watch:** Voice + industry verticals are goldmines right now. `Voice[Industry].com`, `[Vertical]Voice.com`, or even `Smart[Industry]Calls.com`. The key is thinking beyond generic "VoiceAI" to specific use cases.
+**Mike's take:** This one's interesting timing. Manufacturing is screaming for automation post-supply chain chaos, and "manual work" is also trending in VC land (30.5 score). That correlation isn't coincidence. We're looking at the intersection of AI + robotics + enterprise ops. Not as immediately scalable as software, but the moats are deeper.
 
-### Embodied Intelligence (Score: 30.5)
-**Sources:** Sequoia ecosystem
+**Domain patterns to watch:** This is where you get creative with compound terms. `EmbodiedAI`, `IntelligentRobotics`, `PhysicalAI`. Also sector-specific: `ManufacturingIntelligence`, `WarehouseIntelligence`. The "Intelligence" suffix works better than "AI" for enterprise buyers who are still AI-shy.
 
-This is the sleeper term that caught my attention. Embodied intelligence refers to AI systems that exist in physical robots or devices - basically, AI that can interact with the physical world, not just digital environments.
+### Chip Design (Score: 30.5, 1 YC Company)
+**What it means:** AI-powered semiconductor design tools. Using machine learning to optimize chip architecture, reduce design time, and improve performance.
 
-**Mike's take:** Honestly? This feels early. Maybe too early for domain investment unless you're playing a very long game. But it's worth tracking because when Sequoia starts using niche technical terms, they usually become mainstream within 2-3 years. The robotics + AI convergence is real, but we're still in research phase for most enterprise applications.
+**Mike's take:** Hyper-specialized but potentially massive. Chip design cycles are measured in years and cost millions. AI that can accelerate or optimize that process? That's not a nice-to-have, that's a competitive advantage. Small addressable market, but enormous wallet share.
 
-**Domain patterns to watch:** If you're going to play this space, think manufacturing and logistics first. `Embodied[Industry].com` or `Physical[AI/Intelligence].com`. But proceed with caution - this could be 2028 money, not 2026 money.
+**Domain patterns to watch:** `ChipAI`, `SemiconductorAI`, `DesignAutomation`. Think enterprise-focused: `ChipDesignPlatform`, `SemiconductorAutomation`. This is a space where technical accuracy in naming matters more than SEO optimization.
 
 ---
 
 ## ✅ VALIDATED & RISING
 
-### AI Chips (Score: 81.0)
-**Timeline:** VC chatter → Fortune 500 adoption
+### AI Agent (Score: 82.0)
+**Timeline:** This jumped from pure VC buzz to Fortune 500 mentions faster than I expected. Usually takes 18-24 months for enterprise adoption of VC-hot terms.
 
-This crossed over beautifully. Started seeing this in VC discussions about 14 months ago, now it's mainstream corporate terminology. Fortune 500 companies are finally talking hardware strategy beyond just "cloud migration."
+**Why it's crossing over now:** Simple - enterprises tried the chatbot wave and realized they need automation that actually automates. ChatGPT got them comfortable with AI interaction; now they want AI action.
 
-**Why it's crossing over now:** The enterprise AI implementations are hitting hardware bottlenecks. IT departments that spent 2024 experimenting with AI are now facing infrastructure reality in 2026. You can't run serious AI workloads on standard server hardware.
+**Domain implications:** We're hitting that sweet spot where enterprise buyers are educated but naming conventions aren't locked in yet. The singular "Agent" vs plural "Agents" battle is worth watching.
 
-**Domain implications:** The ship has mostly sailed on generic AI chip domains, but there's still opportunity in enterprise-specific combinations. Think `Enterprise[Chip/Silicon].com` or industry-specific plays.
+### Data Centers (Score: 81.0)
+**Timeline:** This has been mainstream for years, but the VC buzz suggests new angles - probably AI-specific infrastructure.
 
-### Goldman Sachs + Investment Analysts + Institutional Investors
-**Pattern recognition:** Financial services is having its AI moment
+**Why it's crossing over now:** AI workloads are breaking traditional data center economics. New infrastructure patterns emerging.
 
-What's interesting is seeing traditional financial terminology spike alongside AI terms. This suggests we're past the experimentation phase - institutional finance is implementing AI at scale.
-
-**Mike's take:** When Goldman Sachs shows up in the same dataset as AI agents, that's institutional validation. The financial services AI market is exploding, and they're looking for enterprise-grade solutions, not startup experiments.
+**Domain implications:** Look for compound plays: `AIDataCenter`, `IntelligentInfrastructure`, `MLOpsCenter`. The basic "datacenter" terms are locked up, but the AI-specific variants are wide open.
 
 ---
 
 ## 📊 MAINSTREAM CORPORATE
 
-The Fortune 500 chatter this week is dominated by traditional corporate finance terms: "earnings season," "investment banking," "analyst reports." Standard Q4 cleanup and Q1 planning stuff.
+Samsung's "nearly three-fold profit surge" and the broader "AI race" narrative dominate Fortune 500 chatter this week. What's telling is the language gap - enterprises are still talking about an "AI revolution" in abstract terms while VCs are discussing specific implementation patterns like "voice ai" and "ai agents."
 
-What's notable is the absence of cutting-edge tech terminology in mainstream corporate communications. While VCs are obsessing over AI agents, Fortune 500 companies are still focused on traditional business metrics and processes.
+The banking sector noise (Goldman Sachs, JPMorgan earnings chatter) combined with "financial services" trending in VC land suggests fintech's next wave is brewing. When investment banks are in earnings focus AND VCs are talking financial services, that's usually acquisition season approaching.
 
-**Domain opportunity assessment:** Low for immediate flips, but high for validation of what we saw emerging 12-18 months ago. When these companies start using the terms VCs are using today, that's when valuations spike.
+"Chapter 11 bankruptcy" mentions (Compass Coffee) remind us that not every category survives market transitions. Coffee shops filing bankruptcy while AI companies raise Series A - that's the economy in transition.
 
 ---
 
 ## 🎯 MIKE'S WEEKLY THESIS
 
-**The Big Picture:** We're witnessing the maturation of the AI category from generic "artificial intelligence" to specific, actionable subcategories. AI agents, voice AI, and embodied intelligence aren't just buzzwords - they're becoming distinct product categories with specific enterprise use cases.
+**The pattern I'm seeing:** We're in the "AI implementation gap" - the space between proof-of-concept and production deployment. VCs are funding the tools and platforms that bridge this gap, while enterprises are still figuring out what they actually want to buy.
 
-**Strategic implications for domain investors:**
+This creates a goldmine for domain investors who understand enterprise buying patterns. The companies being funded today will need enterprise-friendly branding in 12-18 months when they're selling to IT departments instead of innovation labs.
 
-1. **The generic AI domain opportunity is over.** Stop chasing `AI[anything].com` unless it's incredibly specific.
+**Strategic implications:** Focus on compound terms that sound enterprise-ready. CIOs don't buy "AI stuff" - they buy "workforce automation platforms" and "intelligent process optimization solutions." The domains that win will be the ones that sound like line items in a Gartner report.
 
-2. **Compound terms are king.** The money is in `[Industry/Function/Process] + [AI subcategory]` combinations.
+**24-month prediction:** The current VC buzz around "ai agents" and "voice ai" becomes enterprise budget categories. The companies that nail the enterprise naming and positioning will be the ones still standing when the implementation wave hits.
 
-3. **Voice is the sleeper hit.** Everyone's focused on text-based AI, but voice AI for business communications is going to be huge.
-
-**My 12-24 month prediction:** By end of 2026, every major enterprise software vendor will have an "AI agent" product line. By mid-2027, "voice AI" will be as common as "CRM" in enterprise software conversations. The companies building this infrastructure now are positioning for the next wave of enterprise sales cycles.
-
-**Domain strategy:** Focus on specific business processes that can be "agent-ified" or "voice-enabled." Think procurement, onboarding, compliance, support. Generic is dead. Specific process + AI subcategory = opportunity.
+**Domain strategy:** Build portfolios around implementation verbs (Deploy, Scale, Implement, Optimize) combined with the emerging tech terms. Think like a consultant selling to Fortune 500 IT departments, not like a startup pitching to VCs.
 
 ---
 
 ## 📈 TREND TRACKER
 
-**📈 Rising:**
-- Anything with "agent" (singular or plural)
-- Voice + specific business functions  
-- Industry + AI combinations
-- Process automation terminology
+**📈 Moving Up:**
+- Anything with "Agent" - the singular/plural domain variations are hot
+- Voice + AI combinations - but avoid the consumer angles
+- Industry-specific AI compounds - healthcare, finance, manufacturing
 
-**📉 Declining:**
-- Generic "AI platform" terms
-- Blockchain anything (still dead)
-- Generic "digital transformation" 
+**📉 Cooling Off:**
+- Generic "AI" domains without specific use cases
+- Consumer-focused voice tech (unless it's B2B2C)
+- Blockchain anything (still dead, friends)
 
-**🔍 Watch closely:**
-- Embodied intelligence (too early but monitor)
-- Financial services AI (validated and growing)
-- Manual work automation (VCs love efficiency stories)
-
----
-
-**Bottom Line:** The AI gold rush isn't over, it's just getting specific. The winners in 2026 won't be the ones who grabbed generic AI domains in 2023 - they'll be the ones who identified the specific AI subcategories that enterprises actually adopt.
-
-Stay sharp,
-Mike
-
-*P.S. - Next week I'm diving deep into the enterprise software naming patterns I'm seeing in Workday and Salesforce implementations. The "AI-washing" in enterprise software is getting ridiculous, and there are opportunities in the backlash.*
+**🎯 Watch List:**
+- "Embodied Intelligence" - early but potential rocket ship
+- Financial services + AI convergence - acquisition targets incoming
+- Manufacturing automation - supply chain trauma creates buying urgency
 
 ---
 
-*This newsletter is based on proprietary keyword intelligence from VC blogs, YC company communications, and Fortune 500 corporate sources. Forward to a friend who needs better domain intelligence.*
+That's the intel for this week. The gap between VC funding and enterprise adoption is where the money lives - position accordingly.
+
+Keep domain hunting,
+**Mike**
+
+*P.S. - If you're seeing different patterns in your portfolio or have thoughts on the enterprise naming trends, hit reply. Always curious what you're seeing in the wild.*
+
+---
+*Mike's Tech Term Intel comes out weekly. Forward this to anyone who needs better market intelligence on emerging tech terminology and domain opportunities.*

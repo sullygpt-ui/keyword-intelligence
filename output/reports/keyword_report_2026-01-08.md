@@ -9,12 +9,12 @@
 1. **ai agents** 🆕
    - Score: 37.5 | Sources: sequoia
    - First seen: 2026-01-08
-   - [Source](https://www.ycombinator.com/companies/corelayer)
+   - [Source](https://www.ycombinator.com/companies/ressl-ai)
 
 2. **ai platform** 🆕
    - Score: 32.5 | Sources: sequoia
    - First seen: 2026-01-08
-   - [Source](https://www.ycombinator.com/companies/visibl-semiconductors)
+   - [Source](https://www.ycombinator.com/companies/vantel)
 
 3. **voice ai** 🆕
    - Score: 32.0 | Sources: sequoia
@@ -24,34 +24,34 @@
 4. **build ai** 🆕
    - Score: 31.5 | Sources: sequoia
    - First seen: 2026-01-08
-   - [Source](https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/)
+   - [Source](https://www.ycombinator.com/companies/affil-ai)
 
-5. **ai agent** 🆕
-   - Score: 31.0 | Sources: sequoia
+5. **financial services** 🆕
+   - Score: 30.5 | Sources: sequoia
    - First seen: 2026-01-08
    - [Source](https://sequoiacap.com/article/seed-venture-funds-2025/)
 
-6. **financial services** 🆕
+6. **natural language** 🆕
    - Score: 30.5 | Sources: sequoia
    - First seen: 2026-01-08
-   - [Source](https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/)
+   - [Source](https://www.ycombinator.com/companies/bubble-lab)
 
-7. **natural language** 🆕
+7. **manual work** 🆕
    - Score: 30.5 | Sources: sequoia
    - First seen: 2026-01-08
    - [Source](https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/)
 
-8. **manual work** 🆕
+8. **content creation** 🆕
    - Score: 30.5 | Sources: sequoia
    - First seen: 2026-01-08
-   - [Source](https://www.ycombinator.com/companies/merlin-ai)
+   - [Source](https://sequoiacap.com/article/the-abundance-paradox-why-netflix-paid-82b-for-scarcity/)
 
-9. **content creation** 🆕
+9. **implement ai** 🆕
    - Score: 30.5 | Sources: sequoia
    - First seen: 2026-01-08
-   - [Source](https://www.ycombinator.com/companies/lightbox)
+   - [Source](https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/)
 
-10. **implement ai** 🆕
+10. **best ai** 🆕
    - Score: 30.5 | Sources: sequoia
    - First seen: 2026-01-08
    - [Source](https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/)
@@ -61,27 +61,22 @@
 ## VALIDATED & RISING (Cross-tier)
 *Terms appearing in both VC discourse AND Fortune 500 earnings*
 
-1. **ai chips** 🆕 (0.0%)
+1. **ai agent** 🆕 (0.0%)
+   - Score: 82.0
+   - VC Sources: sequoia
+   - F500 Mentions: 1
+
+2. **data centers** 🆕 (0.0%)
    - Score: 81.0
    - VC Sources: sequoia
    - F500 Mentions: 1
 
-2. **goldman sachs** 🆕 (0.0%)
-   - Score: 71.5
+3. **goldman sachs** 🆕 (0.0%)
+   - Score: 72.5
    - VC Sources: 
-   - F500 Mentions: 1
+   - F500 Mentions: 2
 
-3. **ai run** 🆕 (0.0%)
-   - Score: 71.5
-   - VC Sources: 
-   - F500 Mentions: 1
-
-4. **investment analysts** 🆕 (0.0%)
-   - Score: 71.5
-   - VC Sources: 
-   - F500 Mentions: 1
-
-5. **institutional investors** 🆕 (0.0%)
+4. **ai run** 🆕 (0.0%)
    - Score: 71.5
    - VC Sources: 
    - F500 Mentions: 1
@@ -91,35 +86,35 @@
 ## MAINSTREAM CORPORATE (Tier 3)
 *Hot terms in Fortune 500 earnings calls*
 
-1. **second year** 🆕
-   - Mentions: 2 | Companies: yahoo_finance, company_TSLA
+1. **samsung electronics** 🆕
+   - Mentions: 2 | Companies: cnbc_earnings, cnbc_tech
 
-2. **investment banking** 🆕
+2. **nearly three-fold profit surge** 🆕
+   - Mentions: 2 | Companies: cnbc_earnings, cnbc_tech
+
+3. **another sign** 🆕
+   - Mentions: 2 | Companies: cnbc_tech
+
+4. **ai race** 🆕
+   - Mentions: 2 | Companies: cnbc_tech
+
+5. **investment banking** 🆕
    - Mentions: 2 | Companies: cnbc_finance, company_BAC
 
-3. **earnings season** 🆕
+6. **track all markets** 🆕
    - Mentions: 2 | Companies: company_JPM, company_BAC
 
-4. **visteon corporation** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
+7. **earnings - tradingview** 🆕
+   - Mentions: 2 | Companies: company_JPM, company_BAC
 
-5. **newamsterdam pharma company n.v** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
+8. **all markets wolfe** 🆕
+   - Mentions: 2 | Companies: company_JPM, company_BAC
 
-6. **inspire medical systems** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
+9. **research downgrades jpmorgan** 🆕
+   - Mentions: 2 | Companies: company_JPM, company_BAC
 
-7. **execution difficulties** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
-
-8. **216m financing** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
-
-9. **novel securitization** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
-
-10. **soleno therapeutics** 🆕
-   - Mentions: 1 | Companies: yahoo_finance
+10. **earnings tradingview** 🆕
+   - Mentions: 2 | Companies: company_JPM, company_BAC
 
 ---
 
@@ -136,18 +131,17 @@
 | ai platform | 32.5 | 🆕 | 2026-01-08 |
 | voice ai | 32.0 | 🆕 | 2026-01-08 |
 | build ai | 31.5 | 🆕 | 2026-01-08 |
-| ai agent | 31.0 | 🆕 | 2026-01-08 |
-| ai chips | 81.0 | 🆕 | 2026-01-08 |
-| goldman sachs | 71.5 | 🆕 | 2026-01-08 |
+| financial services | 30.5 | 🆕 | 2026-01-08 |
+| ai agent | 82.0 | 🆕 | 2026-01-08 |
+| data centers | 81.0 | 🆕 | 2026-01-08 |
+| goldman sachs | 72.5 | 🆕 | 2026-01-08 |
 | ai run | 71.5 | 🆕 | 2026-01-08 |
-| investment analysts | 71.5 | 🆕 | 2026-01-08 |
-| institutional investors | 71.5 | 🆕 | 2026-01-08 |
-| second year | 22.0 | 🆕 | 2026-01-08 |
+| samsung electronics | 22.0 | 🆕 | 2026-01-08 |
+| nearly three-fold profit surge | 22.0 | 🆕 | 2026-01-08 |
+| another sign | 22.0 | 🆕 | 2026-01-08 |
+| ai race | 22.0 | 🆕 | 2026-01-08 |
 | investment banking | 22.0 | 🆕 | 2026-01-08 |
-| earnings season | 22.0 | 🆕 | 2026-01-08 |
-| visteon corporation | 21.0 | 🆕 | 2026-01-08 |
-| newamsterdam pharma company n.v | 21.0 | 🆕 | 2026-01-08 |
 
 ---
 
-*Generated by Keyword Intelligence System on 2026-01-08 00:29*
+*Generated by Keyword Intelligence System on 2026-01-08 22:57*
