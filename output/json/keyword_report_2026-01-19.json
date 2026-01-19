@@ -1,0 +1,931 @@
+{
+  "report_date": "2026-01-19",
+  "generated_at": "2026-01-19T09:31:28.934892",
+  "tier1_emerging": [
+    {
+      "term": "ai agents",
+      "score": 37.5,
+      "tier1_mentions": 16,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/fed10",
+        "https://www.ycombinator.com/companies/syntra",
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+      ]
+    },
+    {
+      "term": "generative ai",
+      "score": 33.5,
+      "tier1_mentions": 8,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/dreamrp",
+        "https://sequoiacap.com/article/2026-this-is-agi/",
+        "https://www.ycombinator.com/companies/ritivel"
+      ]
+    },
+    {
+      "term": "ai platform",
+      "score": 32.0,
+      "tier1_mentions": 5,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/o11",
+        "https://www.ycombinator.com/companies/vantel",
+        "https://www.ycombinator.com/companies/f2"
+      ]
+    },
+    {
+      "term": "build ai",
+      "score": 31.5,
+      "tier1_mentions": 4,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/noso-labs",
+        "https://www.ycombinator.com/companies/outerport",
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
+      ]
+    },
+    {
+      "term": "reinforcement learning",
+      "score": 31.0,
+      "tier1_mentions": 3,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/2026-this-is-agi/",
+        "https://www.ycombinator.com/companies/grazemate",
+        "https://www.ycombinator.com/companies/trainloop"
+      ]
+    },
+    {
+      "term": "coding agents",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/2026-this-is-agi/",
+        "https://www.ycombinator.com/companies/conductor"
+      ]
+    },
+    {
+      "term": "senior engineers",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/2026-this-is-agi/",
+        "https://www.ycombinator.com/companies/freestyle"
+      ]
+    },
+    {
+      "term": "multi-agent systems",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/2026-this-is-agi/",
+        "https://www.ycombinator.com/companies/coevolved"
+      ]
+    },
+    {
+      "term": "his team",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/blues-makes-every-thing-smarter/",
+        "https://www.ycombinator.com/companies/freestyle"
+      ]
+    },
+    {
+      "term": "native platform",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-sandstone-an-ai-native-platform-for-in-house-legal-teams/",
+        "https://www.ycombinator.com/companies/martini"
+      ]
+    },
+    {
+      "term": "legal ai",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-sandstone-an-ai-native-platform-for-in-house-legal-teams/",
+        "https://www.ycombinator.com/companies/tamlabs"
+      ]
+    },
+    {
+      "term": "small businesses",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-withcoverage-insurance-as-it-should-be/",
+        "https://www.ycombinator.com/companies/lightbox"
+      ]
+    },
+    {
+      "term": "natural language",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/",
+        "https://www.ycombinator.com/companies/bubble-lab"
+      ]
+    },
+    {
+      "term": "manual work",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/",
+        "https://www.ycombinator.com/companies/merlin-ai"
+      ]
+    },
+    {
+      "term": "complete visibility",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-serval-empowering-it-for-ai-enterprise-automation/",
+        "https://www.ycombinator.com/companies/grazemate"
+      ]
+    },
+    {
+      "term": "content creation",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/lightbox",
+        "https://sequoiacap.com/article/the-abundance-paradox-why-netflix-paid-82b-for-scarcity/"
+      ]
+    },
+    {
+      "term": "generative media",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-fal-the-generative-media-company/",
+        "https://www.ycombinator.com/companies/martini"
+      ]
+    },
+    {
+      "term": "implement ai",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/burnt",
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+      ]
+    },
+    {
+      "term": "best ai",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/pocket",
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/"
+      ]
+    },
+    {
+      "term": "hundreds of millions",
+      "score": 30.5,
+      "tier1_mentions": 2,
+      "tier3_mentions": 0,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.ycombinator.com/companies/ritivel",
+        "https://sequoiacap.com/article/partnering-with-ricursive-intelligence-a-premier-frontier-lab-pioneering-ai-for-chip-design/"
+      ]
+    }
+  ],
+  "tier2_validated": [
+    {
+      "term": "wealth management",
+      "score": 84.0,
+      "tier1_mentions": 1,
+      "tier3_mentions": 4,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/15/morgan-stanley-ms-q4-2025-earnings.html",
+        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
+        "https://www.cnbc.com/2026/01/15/goldman-sachs-gs-q4-2025-earnings.html"
+      ]
+    },
+    {
+      "term": "ai companies",
+      "score": 81.0,
+      "tier1_mentions": 3,
+      "tier3_mentions": 1,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-sandstone-an-ai-native-platform-for-in-house-legal-teams/",
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/"
+      ]
+    },
+    {
+      "term": "new york",
+      "score": 81.0,
+      "tier1_mentions": 1,
+      "tier3_mentions": 1,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "company_JPM"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/partnering-with-sandstone-an-ai-native-platform-for-in-house-legal-teams/",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb09DZWRQaDNzd3ozbEhVU0FUbU5WM3FSU2ZJbTZvMV9vYWQzbmJNRmdqNXRiQmxoOGR5VVF0VFNzbmdialZ2Z3g0YVJSUUVDY0RuSEJPbVY5b1pkTEZ2QVczRXVrTlFLcEhRNHRkNjg5S2NXcFhua0UxeS0zVnlUdFB3VVdPVzB6NWl4d2VIdzJXZHlnZHpabWxsZFdYWnNlOVRBbElVZkM3dlNYT2JrVWdYVUNNMGNyZVJv?oc=5"
+      ]
+    },
+    {
+      "term": "data centers",
+      "score": 81.0,
+      "tier1_mentions": 1,
+      "tier3_mentions": 1,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.cnbc.com/2026/01/16/musks-xai-faces-tougher-road-expanding-memphis-area-after-epa-update.html"
+      ]
+    },
+    {
+      "term": "ai data",
+      "score": 81.0,
+      "tier1_mentions": 1,
+      "tier3_mentions": 1,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/ai-in-2026-the-tale-of-two-ais/",
+        "https://www.cnbc.com/2026/01/15/cloudflare-ai-human-native-acquisition.html"
+      ]
+    },
+    {
+      "term": "robust ai",
+      "score": 81.0,
+      "tier1_mentions": 1,
+      "tier3_mentions": 1,
+      "vc_sources": [
+        "sequoia"
+      ],
+      "earnings_sources": [
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://sequoiacap.com/article/nevis-bringing-ai-to-wealth-management/",
+        "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html"
+      ]
+    },
+    {
+      "term": "goldman sachs",
+      "score": 77.5,
+      "tier1_mentions": 1,
+      "tier3_mentions": 7,
+      "vc_sources": [],
+      "earnings_sources": [
+        "wsj_via_google",
+        "bloomberg_via_google",
+        "cnbc_earnings",
+        "cnbc_finance",
+        "yahoo_finance"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/hsbc-keeps-hold-goldman-sachs-042631879.html",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzhycnJpNmtFM0E3VnlmTXpKRFBtS1FqeGpHUGxOZjJTQ3MtQl94WnFJNGZ6di11QS1UdHI1bXdkb1p4R1N0ckZodVFXc3hJOFE4cy1BMHNRVHZUdFFtcHl6WDA4Ql95Y3FKS3B0NGFWRUMxSXA2d3JrdTJBRURHNGNvWGV1ZVBvcHYzSlpuMDJDTUlGVnZ6WjBYak8tOUhqTmZnVHU3aE4?oc=5",
+        "https://www.cnbc.com/2026/01/15/were-raising-our-price-target-on-goldman-sachs-after-strong-noisy-q4.html"
+      ]
+    },
+    {
+      "term": "ai models",
+      "score": 71.5,
+      "tier1_mentions": 1,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/16/google-deepmind-china-ai-demis-hassabis.html",
+        "https://www.ycombinator.com/companies/shofo"
+      ]
+    },
+    {
+      "term": "user data",
+      "score": 71.5,
+      "tier1_mentions": 1,
+      "tier3_mentions": 1,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": true,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/16/open-ai-chatgpt-ads-us.html",
+        "https://www.ycombinator.com/companies/rowflow"
+      ]
+    }
+  ],
+  "tier3_mainstream": [
+    {
+      "term": "wells fargo",
+      "score": 25.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 5,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance",
+        "company_BAC",
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/stocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXd0dk14Sk1DbG5DWFgtczBQbGMzVm9EcGxaSWRmZ2QyLV9TTkh2R1NZN0hqQ2RmMF93VTgxMENCVnY1c1E1NVFIUl9PYWJBZGs0OHZxMnM3dndUWWhiQVBLR005WHJmY2FvNEl6NE5td25iLXpVZ0JrUEZvdkhtSVlYdGlDOUxFS285emJpbHBubTJEaEFJcEJqRGNXbHJFbEhYcU9US2NKMWJYNExYQ1NkYWtLVmkzYXVkMng4OVZhN3g0UDlUUGtB?oc=5",
+        "https://finance.yahoo.com/news/wells-fargo-raises-voya-target-043156406.html"
+      ]
+    },
+    {
+      "term": "jpmorgan chase",
+      "score": 25.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 5,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "company_JPM",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/17/trump-jpmorgan-chase-debanking.html",
+        "https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnTXVQTEEtRjVqVGZOSExoX0xMOEZ3NjJDR2tZd3ZaMkxkNHV1bDNBNkpUbEJNamdTZ1Q0aGIyUHR1cU1hdVRMZV9WcWRSdkVjY3BaNTJFS0M1ZFV4RkhvNHRhbkxrOHlQbnVnbVRSQWYycG1oa0k3TFZCcW7SAYIBQVVfeXFMT3BQN3BramhNUWRZRy1ZQUpOYVJBajdLOHlrX01EYkE2cjlNRTRnNlhBdTAzQTNkTVZ6cG5GcXJiUmE0ZXdjNGgtUlFEMFg3b1ZIRVpISG82U1ZQTWU5ekVhZU52N2ZjYnBZMVE4b0lJSExHU0NLcnlJeElpNjQyZFZyZw?oc=5"
+      ]
+    },
+    {
+      "term": "better-than-expected net interest income",
+      "score": 23.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 3,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_BAC",
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KSFFjNUtvRV9CM0l4QWlhLUhIMW8wRlg5TEVVOWlmaERHaUF1a2xOaGJYby1hem9aTk1uTEwwN1E5Z1d3M0hhQ1dpOHR1RzI3VWMxLVhQdEdMai1uSkh2TkxrYXAwa3EyVlU2MlB2emI4YkRuWkoxd1dOdGo0d9IBgwFBVV95cUxNckZ4aWxaaC02V1FIelBKa2FkVDBUUnlPckx3MFhvODd5bFAtc05EVWRXSTU3UTNza3M3djdscWJrYlhlVG4yaXBkQVJXaFN5S1dSSFkyVENCY2JSNGlSeEhWUzFQS09ZeWR4a1Y4SFQzajNaU2Y4eVRqZ3ZrY0tyeV95WQ?oc=5"
+      ]
+    },
+    {
+      "term": "jpmorgan earnings",
+      "score": 23.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 3,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdVA1Um9TbWMxM2dZWjU2cjBGbDItX0ZVaDRHSXd6dmdkejhLWWt2alFBVEtyTFdtUFNhTU4yOE1jX0Eta0JxMTVQQ21NdlJDNkVaZUpMeHF6Q2QwQ3lubHIxanFCNkxWckd4ejRsMDlCelJHWFFCTFNhZzFpYXRSajR5bjZCOGhkWGdDVDhnSWxtb1kxdDR0Tkt5T1RHQ1dFN0l1eVRQMWxWaWxYNzVmQkEtRVBUdElzdGpnMUxtV2xYRWVNWkc1VlllZm5qX1hVaXIydXUtVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM09zdWZDczh6blBFRHVuNUpVMDNyWTRIcUpkcTJmUHF0LV93cFNVM2M5V2xtY0V3S0ZmQXEtM0YxZ1VlNWlmbnVyVGFTa2RORGd0b2VfeDExNm1ieE81Wmk4WlpjVTdGVURtR2lkOGtFMGJtZnYydlFnd2N2c1k0VHhod3dTbnY3dFZtcg?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSEdSUzZfbThGVkFwTkZVYzRaRDNOXzJsZFBPS2swTnVqMTdYck1Bbmk5QUlLaWxYS3NkSXo1S3hXc1R1aUU4SWQydVRBUU1ESEVkbnRyeURuRnpEbnhjYzctemcxdzFGRGdGeHNpT1BZVTRYM2xkM2Y3aWRUa19nVjg0SHRQdmpxY0g2ajdreUVRZHRPMnRKZWduOFpRQkdoQlBocktvbnZXNGxpMW9mcXRBTC1SRWxydEJTczR0b0lWSTdpSl9JTXhzN0o?oc=5"
+      ]
+    },
+    {
+      "term": "morgan stanley",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "yahoo_finance",
+        "bloomberg_via_google"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://finance.yahoo.com/news/morgan-stanley-raises-mosaic-mos-044118245.html",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUzhycnJpNmtFM0E3VnlmTXpKRFBtS1FqeGpHUGxOZjJTQ3MtQl94WnFJNGZ6di11QS1UdHI1bXdkb1p4R1N0ckZodVFXc3hJOFE4cy1BMHNRVHZUdFFtcHl6WDA4Ql95Y3FKS3B0NGFWRUMxSXA2d3JrdTJBRURHNGNvWGV1ZVBvcHYzSlpuMDJDTUlGVnZ6WjBYak8tOUhqTmZnVHU3aE4?oc=5"
+      ]
+    },
+    {
+      "term": "net revenue",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/15/morgan-stanley-ms-q4-2025-earnings.html"
+      ]
+    },
+    {
+      "term": "profit estimates",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/15/goldman-sachs-gs-q4-2025-earnings.html"
+      ]
+    },
+    {
+      "term": "goldman's revenue",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/15/goldman-sachs-gs-q4-2025-earnings.html"
+      ]
+    },
+    {
+      "term": "ai chip",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/16/5-things-to-know-before-the-stock-market-opens.html",
+        "https://www.cnbc.com/2026/01/15/tsmc-q4-profit-record-ai-chip-demand-nt1-trillion.html"
+      ]
+    },
+    {
+      "term": "citigroup tops",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html"
+      ]
+    },
+    {
+      "term": "stronger net interest income",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html"
+      ]
+    },
+    {
+      "term": "smaller loan loss provision",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/citigroup-c-earnings-q4-2025.html"
+      ]
+    },
+    {
+      "term": "equities trading bank",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/bank-of-america-bac-q4-2025-earnings.html"
+      ]
+    },
+    {
+      "term": "trading revenue",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "company_JPM",
+        "cnbc_earnings"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/13/jpmorgan-chase-jpm-earnings-q4-2025.html",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnTXVQTEEtRjVqVGZOSExoX0xMOEZ3NjJDR2tZd3ZaMkxkNHV1bDNBNkpUbEJNamdTZ1Q0aGIyUHR1cU1hdVRMZV9WcWRSdkVjY3BaNTJFS0M1ZFV4RkhvNHRhbkxrOHlQbnVnbVRSQWYycG1oa0k3TFZCcW7SAYIBQVVfeXFMT3BQN3BramhNUWRZRy1ZQUpOYVJBajdLOHlrX01EYkE2cjlNRTRnNlhBdTAzQTNkTVZ6cG5GcXJiUmE0ZXdjNGgtUlFEMFg3b1ZIRVpISG82U1ZQTWU5ekVhZU52N2ZjYnBZMVE4b0lJSExHU0NLcnlJeElpNjQyZFZyZw?oc=5"
+      ]
+    },
+    {
+      "term": "nonstop geopolitical upheaval",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/16/cnbc-daily-open-ai-trade-reignited-by-tsmc-earnings-blowout.html",
+        "https://www.cnbc.com/2026/01/16/cnbc-daily-open-tsmc-earnings-draw-investors-eyes-back-to-ai.html"
+      ]
+    },
+    {
+      "term": "larger global dynamics",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_tech"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/16/cnbc-daily-open-ai-trade-reignited-by-tsmc-earnings-blowout.html",
+        "https://www.cnbc.com/2026/01/16/cnbc-daily-open-tsmc-earnings-draw-investors-eyes-back-to-ai.html"
+      ]
+    },
+    {
+      "term": "midday trading",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/stocks-making-the-biggest-moves-midday-biib-rivn-bac-abnb.html",
+        "https://www.cnbc.com/2026/01/16/stocks-making-the-biggest-moves-midday-nvo-rf-gev-vst-and-more.html"
+      ]
+    },
+    {
+      "term": "premarket trading",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "cnbc_finance"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://www.cnbc.com/2026/01/14/stocks-making-the-biggest-moves-premarket-wfc-bac-nflx.html",
+        "https://www.cnbc.com/2026/01/16/stocks-making-the-biggest-moves-premarket-pnc-ibrx-cpng.html"
+      ]
+    },
+    {
+      "term": "european stocks",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "bloomberg_via_google"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGIxdTRNZFY4cnBYdkZYTlpyc3RlYzk1TEc0Z0ZCb3dycWhqTDdwNnN4TVNfSTFVSDliV2ZyRDNyNktkRW8zN2ptQ2ZvUkZuUUljWWdwd0V5VUU0UnNKWUprcFBTbHVSVGF4dGExZHBOV2hHNEFmVlB1VHNMTk5SbnZPTlItclhmS25MLXk5WHA1UkYtMU5nWGxkRm1VZ0tac011NTdiU3J2OWFxclh1dFZPVC1ldw?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSkpSTkVORmdrU282UEVHS3BKM3p2cGFtM3E2Ml8xUmtNdlNPU01zZk1fRklZcmQ0RHFfTjZOSnBPcS1qQmExTXZXdW4tanByOXpDbVhWWHdvWWNGQW1idVFNS0MzdEliVEVQcFZSdGIwNHBPeE5OSXlTaFF1VndSWkl3M1hBOU11NEJwcy14NHRlRzhuRzVLNHI5cmFsSE9EVGtBbENMcFR2WmNHMG9B?oc=5"
+      ]
+    },
+    {
+      "term": "investment-banking miss",
+      "score": 22.0,
+      "tier1_mentions": 0,
+      "tier3_mentions": 2,
+      "vc_sources": [],
+      "earnings_sources": [
+        "wsj_via_google",
+        "company_JPM"
+      ],
+      "first_seen": "2026-01-19",
+      "is_cross_tier": false,
+      "trend": "new",
+      "percent_change": 0.0,
+      "urls": [
+        "https://news.google.com/rss/articles/CBMinANBVV95cUxPUFBjVkM5M0VabTFaY05PSXkxSUlqbERrS2JVbF9obkNRX2t1NHJwbTVSZHVURDhocFptNEpQU2ppMkdDckdIQi1peTRUSUEwbnRmTjVqWXZEMXViRkROb1U5czJtWktCUEdNWE11cnVjOGplN1VkamhlY05fTXlBVlNWMG9uNFY0OUhiaEVTa21CdHdqWG9KRjU1cm5hdTZTWnBRQ1BRQTB3N1ItVWVnUk9nUTJQVzE1dWU3dmFPMkx3cFZiSVVtTU9VVGluaDhSNTE1cWpGUy1GUHdYSGlhVm9odVV3MEtrZGhWek1Mc25wQ3FWcktLTklvZjNtUHR2bU1qNmxPVHdaYTdKYUVfRF9KLVZmTHNXMW9yTlJhUV92LUNKZGVUcDhJXzdFWG1Ga3ZWZzZxM1Z5MG1TWFEwV0VmQXNQUmVuRS1WbUhiVl84dFBYeERmdlJCQURrcThpekFuSXItWVEweENMdU85WFBlSXphUHRhOUZtWWw3dHRIN2dESjhjelFSa0M4eUhrZXctTGpEWlFlWkRE?oc=5",
+        "https://news.google.com/rss/articles/CBMinANBVV95cUxPLTY3LWs3ZmRMZ3Z1SUxaanN1Y2pLSjNpVkdGYnZOa25ldk0zMG1ZcUxHRzF2NjJrSzJ3d3pIOExCeGxpTkJ4cmE5SjZsb3lHdU9FeHFsVHhFcWUzLWZGblU2X3EzaC1NRXdsTlZGcURsVmRuSFYwb2E1bS1vcTBiSHphMm5TeVVBM1BUV1UzZ21YcDhYSnVmd0FDWlJXSDExekEwNTVoTlo5WkFhZTY5eXozWWJTcThFa0ZUWjRFWTUxaDFyZUtCWFhOU1hsTTlqX2t4NG1nQkU3OUxuVUZnOGJLSDFTVERsd05MaFFReERWMFRQQ2k5aG91dXZUaW5TYk9oYzBRRk91dTFVWGd5bTJKQkxuOXowV2Mwc3ZkTHphRDZVVjRqdDZVdmFlWHJ4dnNLa3djQ3FXeXJSZmFReERDM0ZNcktnR3FtZExhR2dPZjBRc2dnTUNGZkhRdWNWc21YUkl5ZDh0VEdNd2V2WjJYSjJMT1FWSlZZbWdNTFR3cE9NWl94RXJZb0VrVnNDOGsyYW0zUFhHY2FI?oc=5"
+      ]
+    }
+  ]
+}
