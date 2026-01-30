@@ -1,81 +1,86 @@
-"""
-Configuration for Keyword Intelligence System
-"""
+"""Configuration settings for keyword intelligence."""
+
 import os
 from pathlib import Path
 
-# Base paths
-BASE_DIR = Path(__file__).parent
-DATA_DIR = BASE_DIR / "data"
-OUTPUT_DIR = BASE_DIR / "output"
-
-# API Keys (set via environment variables)
-FMP_API_KEY = os.getenv("FMP_API_KEY", "")
-WORDPRESS_URL = os.getenv("WORDPRESS_URL", "https://sullysblog.com/xmlrpc.php")
-WORDPRESS_USERNAME = os.getenv("WORDPRESS_USERNAME", "")
-WORDPRESS_PASSWORD = os.getenv("WORDPRESS_PASSWORD", "")
-
-# VC Blog RSS Feeds
-VC_BLOGS = {
-    'a16z': 'https://a16z.com/blog/feed/',
-    'sequoia': 'https://sequoiacap.com/feed/',
-    'greylock': 'https://greylock.com/feed/',
-    # Note: Some VC blogs don't have public RSS feeds
-    # 'bessemer': 'https://www.bvp.com/atlas/rss',  # No longer available
-    # 'nfx': 'https://www.nfx.com/feed',  # No longer available
-    # 'first_round': 'https://review.firstround.com/feed',  # No longer available
-}
-
-# Fortune 500 companies to track (by sector)
-FMP_COMPANIES = {
-    'tech': ['AAPL', 'MSFT', 'GOOGL', 'AMZN', 'META', 'NVDA', 'TSLA', 'CRM', 'ORCL', 'ADBE', 'IBM', 'INTC', 'CSCO', 'AMD', 'QCOM'],
-    'retail': ['WMT', 'TGT', 'HD', 'COST', 'NKE', 'LOW', 'TJX', 'ROSS', 'DG', 'DLTR'],
-    'industrial': ['GE', 'CAT', 'BA', 'HON', 'MMM', 'UPS', 'RTX', 'LMT', 'DE', 'EMR'],
-    'healthcare': ['JNJ', 'UNH', 'PFE', 'ABT', 'TMO', 'MRK', 'LLY', 'ABBV', 'CVS', 'CI'],
-    'financial': ['JPM', 'BAC', 'WFC', 'GS', 'MS', 'BLK', 'C', 'AXP', 'SCHW', 'USB'],
-}
-
-# Flatten company list
-ALL_COMPANIES = [ticker for sector in FMP_COMPANIES.values() for ticker in sector]
-
-# Processing settings
-MIN_KEYWORD_LENGTH = 2  # Minimum words in phrase
-MAX_KEYWORD_LENGTH = 4  # Maximum words in phrase
-MIN_MENTIONS = 2        # Minimum mentions to include in report
-WEEKLY_LIMIT = 50       # Top N keywords to report per tier
-
-# Rate limiting
-FMP_RATE_LIMIT_SECONDS = 12  # 5 calls/minute = 1 call every 12 seconds
-FMP_DAILY_LIMIT = 250        # Free tier daily limit
-RSS_DELAY_SECONDS = 2        # Delay between RSS feed fetches
+# Project paths
+PROJECT_ROOT = Path(__file__).parent
+DATA_DIR = PROJECT_ROOT / "data"
+OUTPUT_DIR = PROJECT_ROOT / "output"
 
 # Database
 DATABASE_PATH = DATA_DIR / "keywords.db"
 
-# Common business jargon to filter out
-FILTER_PHRASES = {
-    # Generic business terms
-    'fiscal year', 'going forward', 'shareholder value', 'quarterly results',
-    'year over year', 'quarter over quarter', 'revenue growth', 'profit margin',
-    'operating income', 'net income', 'gross margin', 'free cash flow',
-    'capital expenditure', 'balance sheet', 'income statement', 'cash flow',
-    'earnings per share', 'market share', 'customer satisfaction', 'strategic priority',
-    'core business', 'competitive advantage', 'value proposition', 'key driver',
-    'organic growth', 'bottom line', 'top line', 'cost reduction',
-    'operational efficiency', 'strong performance', 'challenging environment',
-    'guidance range', 'full year', 'first quarter', 'second quarter',
-    'third quarter', 'fourth quarter', 'year end', 'last year',
-    'prior year', 'current quarter', 'next quarter', 'fiscal quarter',
+# Collection settings
+HACKERNEWS_STORIES_PER_RUN = 100  # Top/new stories to fetch
+ARXIV_PAPERS_PER_RUN = 100       # Papers to fetch per category
+GITHUB_REPOS_PER_RUN = 50        # Trending repos to fetch
 
-    # Generic tech terms (too broad)
-    'software development', 'data center', 'cloud computing', 'machine learning',
-    'artificial intelligence', 'digital transformation',
+# arXiv categories to track (CS and related)
+ARXIV_CATEGORIES = [
+    "cs.AI",   # Artificial Intelligence
+    "cs.LG",   # Machine Learning
+    "cs.CL",   # Computation and Language (NLP)
+    "cs.CV",   # Computer Vision
+    "cs.CR",   # Cryptography and Security
+    "cs.DC",   # Distributed Computing
+    "cs.SE",   # Software Engineering
+]
 
-    # Common filler phrases
-    'thank you', 'good morning', 'good afternoon', 'good evening',
-    'great question', 'next question', 'operator please',
+# Term extraction settings
+MIN_TERM_LENGTH = 3
+MAX_TERM_LENGTH = 50
+MIN_TERM_FREQUENCY = 2  # Minimum times a term must appear to be stored
+
+# Terms to ignore (common words that aren't useful signals)
+STOP_TERMS = {
+    # Generic tech words (too common)
+    "software", "hardware", "computer", "system", "systems", "application",
+    "applications", "technology", "technologies", "platform", "platforms",
+    "solution", "solutions", "service", "services", "tool", "tools",
+    "data", "database", "server", "servers", "code", "coding",
+    "developer", "developers", "engineering", "engineer", "engineers",
+    "programming", "program", "programs", "project", "projects",
+    
+    # Generic business words
+    "company", "companies", "business", "startup", "startups",
+    "product", "products", "market", "markets", "customer", "customers",
+    "user", "users", "team", "teams", "work", "working",
+    
+    # Common verbs/adjectives
+    "using", "based", "new", "better", "best", "good", "great",
+    "simple", "easy", "fast", "open", "source", "free",
+    "really", "actually", "probably", "pretty", "much", "many",
+    "thing", "things", "something", "anything", "everything",
+    "way", "ways", "point", "points", "part", "parts",
+    "lot", "lots", "bit", "kind", "sort", "type",
+    "people", "person", "world", "life", "right", "wrong",
+    "same", "different", "other", "another", "most", "more",
+    "less", "few", "some", "any", "all", "every", "each",
+    "want", "need", "like", "know", "think", "make", "take",
+    "get", "got", "going", "come", "coming", "look", "looking",
+    "try", "trying", "use", "used", "find", "found", "give",
+    
+    # Time-related
+    "year", "years", "month", "months", "day", "days", "today",
+    "week", "weeks", "time", "first", "last", "next", "now",
+    "ago", "since", "still", "always", "never", "often",
+    
+    # Web/HTML cruft
+    "quot", "href", "http", "https", "www", "com", "org", "net",
+    "html", "rel", "nofollow", "amp", "x27", "x2f", "gt", "lt",
+    
+    # Common pronouns/articles (spaCy should catch but just in case)
+    "the", "that", "this", "these", "those", "what", "which",
+    "who", "whom", "whose", "where", "when", "why", "how",
+    "been", "being", "have", "has", "had", "having",
+    "does", "did", "doing", "done", "would", "could", "should",
+    "will", "shall", "might", "must", "can", "may",
+    "with", "from", "they", "their", "them", "there", "here",
+    "just", "only", "also", "even", "about", "into", "over",
+    "such", "than", "very", "well", "back", "down", "away",
 }
 
-# Logging
-LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO")
-LOG_FILE = DATA_DIR / "keyword_intelligence.log"
+# Ensure directories exist
+DATA_DIR.mkdir(exist_ok=True)
+OUTPUT_DIR.mkdir(exist_ok=True)
