@@ -10,6 +10,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from config import OUTPUT_DIR
 from src.database import get_trending_terms, get_term_history
+from src.analysis.trends import get_emerging_terms, get_arxiv_only_terms
 
 
 def generate_report(days: int = 7, limit: int = 50, output_file: str = None):
@@ -81,6 +82,75 @@ def generate_report(days: int = 7, limit: int = 50, output_file: str = None):
     print('='*60)
 
 
+def generate_emerging_report(days: int = 7, limit: int = 30):
+    """Generate a report focused on EMERGING terms, not just popular ones."""
+    
+    print(f"\n{'='*60}")
+    print(f"🚀 EMERGING TERMS REPORT")
+    print(f"Period: Last {days} days (as of {date.today()})")
+    print(f"Focus: New & growing terms, not already-mainstream")
+    print('='*60)
+    
+    # Get emerging terms
+    emerging = get_emerging_terms(days=days, limit=limit)
+    
+    if not emerging:
+        print("\nNo emerging terms found. Need more data - run collection for a few days.")
+        return
+    
+    print(f"\n📈 TOP EMERGING TERMS (by emergence score)")
+    print(f"{'Term':<30} {'Score':>6} {'Count':>6} {'Sources':>8} {'New?':>5}")
+    print("-" * 60)
+    
+    for term_data in emerging[:20]:
+        term = term_data["term"]
+        score = term_data["emergence_score"]
+        count = term_data["total_count"]
+        sources = term_data["source_count"]
+        is_new = "✨" if term_data["is_new"] else ""
+        
+        print(f"{term:<30} {score:>6} {count:>6} {sources:>8} {is_new:>5}")
+    
+    # Get arXiv-only terms (earliest signals)
+    arxiv_only = get_arxiv_only_terms(days=days, limit=15)
+    
+    if arxiv_only:
+        print(f"\n🔬 ARXIV-ONLY TERMS (academic signals not yet in HN/GitHub)")
+        print(f"{'Term':<30} {'Count':>6}")
+        print("-" * 40)
+        
+        for term_data in arxiv_only[:10]:
+            print(f"{term_data['term']:<30} {term_data['count']:>6}")
+    
+    # Save report
+    output_file = OUTPUT_DIR / f"emerging_{date.today()}.md"
+    
+    lines = [
+        f"# Emerging Terms Report - {date.today()}",
+        f"",
+        f"## Top Emerging Terms",
+        f"",
+        f"| Term | Score | Count | Sources | New? |",
+        f"|------|-------|-------|---------|------|",
+    ]
+    
+    for term_data in emerging[:20]:
+        new_marker = "✨" if term_data["is_new"] else ""
+        lines.append(f"| {term_data['term']} | {term_data['emergence_score']} | {term_data['total_count']} | {term_data['source_count']} | {new_marker} |")
+    
+    if arxiv_only:
+        lines.extend([
+            f"",
+            f"## arXiv-Only Terms (Earliest Signals)",
+            f"",
+        ])
+        for term_data in arxiv_only[:10]:
+            lines.append(f"- **{term_data['term']}** ({term_data['count']})")
+    
+    output_file.write_text("\n".join(lines))
+    print(f"\nReport saved to: {output_file}")
+
+
 def show_term_detail(term: str, days: int = 30):
     """Show detailed history for a specific term."""
     print(f"\n{'='*60}")
@@ -125,10 +195,17 @@ def main():
         type=str,
         help="Output file path (default: output/report_DATE.md)"
     )
+    parser.add_argument(
+        "--emerging", "-e",
+        action="store_true",
+        help="Show emerging terms report (filters out mainstream terms)"
+    )
     args = parser.parse_args()
     
     if args.term:
         show_term_detail(args.term, days=args.days)
+    elif args.emerging:
+        generate_emerging_report(days=args.days, limit=args.limit)
     else:
         generate_report(days=args.days, limit=args.limit, output_file=args.output)
 
